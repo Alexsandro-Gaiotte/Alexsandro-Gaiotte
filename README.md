@@ -21,5 +21,3 @@ Here are some ideas to get you started:
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Gaiotte&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-<iframe src="https://giphy.com/embed/UO5elnTqo4vSg" width="480" height="439" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shaq-shimmy-UO5elnTqo4vSg">via GIPHY</a></p>
-
