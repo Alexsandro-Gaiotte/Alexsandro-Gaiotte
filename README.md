@@ -34,4 +34,10 @@ Here are some ideas to get you started:
  <img src="https://cdn.simpleicons.org/python/000/fff" alt="Python" align=left width=24 height=24>
 
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alexsandro-Gaiotte}/count.svg" /></p> 
+<br>
+</div>
+
 
