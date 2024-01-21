@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <div align="center"> 
 <a href="https://www.instagram.com/a.gaiotte?igsh=MTQ0NnBycDVlcDQyYw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:alex_gaiotte@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[www.linkedin.com/in/alexsandro-gaiotte-de-matos-ribeiro-sobrinho-189297204/](https://www.linkedin.com/in/alexsandro-gaiotte-de-matos-ribeiro-sobrinho-189297204/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="www.linkedin.com/in/alexsandro-gaiotte-de-matos-ribeiro-sobrinho-189297204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
+
 
 
