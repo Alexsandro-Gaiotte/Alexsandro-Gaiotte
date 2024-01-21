@@ -33,8 +33,6 @@ Here are some ideas to get you started:
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
  <img src="https://cdn.simpleicons.org/python/000/fff" alt="Python" align=left width=24 height=24>
 
- <div style="width:100%;height:0;padding-bottom:92%;position:relative;"><iframe src="https://giphy.com/embed/UO5elnTqo4vSg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/shaq-shimmy-UO5elnTqo4vSg"></a></p>
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
